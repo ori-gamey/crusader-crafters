@@ -1,0 +1,6 @@
+name: CrusaderCrafters
+version: ${project.version}
+main: gg.clergyofbarry.crusadercrafters.CrusaderCrafters
+api-version: 1.16
+authors: [ ethsmith, mtorontali ]
+description: Minecraft minigame by Matt and Ethan for our discord
